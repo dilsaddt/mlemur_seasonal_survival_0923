@@ -24,5 +24,6 @@ prediction/mlemur_prediction_interaction1_github_0923.R = predictions and visual
 prediction/mlemur_prediction_interaction1_github_0923.R = predictions and visualization from the interaction model 2
 
 ## Software
-R version  4.2.1
+R version  4.2.1 
+
 NIMBLE version 0.13.2 (through R-package 'nimble')
