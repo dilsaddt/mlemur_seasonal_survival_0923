@@ -9,6 +9,7 @@ Environmental factors used in the model to check survival patterns under these f
 ## Files
 
 data/mlemur_example_data_092023 = data for running models and predictions
+
 *** Data here is representative just to make code running, not the actual data used in the analyses. ***
 
 model_run/mlemur_additive_github_0923.R = additive model code
