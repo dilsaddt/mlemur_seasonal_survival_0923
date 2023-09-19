@@ -22,3 +22,7 @@ here only diagnostics of additive model is shown as an example, but the process 
 prediction/mlemur_prediction_additive_github_0923.R = predictions and visualization from the additive model
 prediction/mlemur_prediction_interaction1_github_0923.R = predictions and visualization from the interaction model 1
 prediction/mlemur_prediction_interaction1_github_0923.R = predictions and visualization from the interaction model 2
+
+## Software
+R version  4.2.1
+NIMBLE version 0.13.2 (through R-package 'nimble')
